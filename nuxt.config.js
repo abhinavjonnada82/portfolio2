@@ -23,6 +23,10 @@ module.exports = {
       {
         rel: "stylesheet",
         href: "https://use.fontawesome.com/releases/v5.8.1/css/all.css"
+      },
+      {
+        rel: "stylesheet",
+        href: "https://unpkg.com/buefy/dist/buefy.min.css"
       }
     ]
   },
