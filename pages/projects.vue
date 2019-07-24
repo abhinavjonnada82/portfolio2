@@ -4,7 +4,7 @@
       <div class="container">
         <h1 class="title">My Pojects</h1>
         <h2 class="subtitle">
-          Projects are dynamically retrieved (too lazy to hard code projects done!) from GitHub using
+          Projects are dynamically retrieved (too lazy to hard code my projects!) from GitHub using
           <i
             class="fab fa-github fa-3x"
             aria-hidden="true"
