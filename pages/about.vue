@@ -11,7 +11,7 @@
           My work experience 👔 ranges from building enterprise-level applications
           using Python
           <i class="fab fa-python"></i> to web applications using Django
-          <i class="fab fa-django"></i>, React JS
+          <i class="fab fa-python"></i>, React JS
           <i class="fab fa-react"></i>, Vue JS
           <i class="fab fa-vuejs"></i> & Node JS
           <i class="fab fa-js"></i>.
