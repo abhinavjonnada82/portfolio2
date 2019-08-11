@@ -9,7 +9,7 @@
           I have around 2 years of experience in building custom software solutions
           for a leading startup, regional company & giant corporation 🏢. Demonstrated experience in various software methodologies and their implementation.
           My work experience 👔 ranges from building enterprise-level applications
-          using Python
+          using C++ <i class="fab fa-cuttlefish"></i>, Python
           <i class="fab fa-python"></i> to web applications using Django
           <i class="fab fa-python"></i>, React JS
           <i class="fab fa-react"></i>, Vue JS
