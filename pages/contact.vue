@@ -29,7 +29,7 @@
             rel="noopener noreferrer"
             target="_blank"
           >
-            <b-tooltip label="abhinavjonnada82">
+            <b-tooltip label="ajon82">
               <i class="fab fa-twitter fa-5x" aria-hidden="true" />
             </b-tooltip>
           </a>
