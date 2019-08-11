@@ -24,6 +24,16 @@
             </b-tooltip>
           </a>
           &nbsp;
+           <a
+            href="https://twitter.com/ajon82"
+            rel="noopener noreferrer"
+            target="_blank"
+          >
+            <b-tooltip label="abhinavjonnada82">
+              <i class="fab fa-twitter fa-5x" aria-hidden="true" />
+            </b-tooltip>
+          </a>
+          &nbsp;
           <a
             href="abhinav.jonnada@gmail.com"
             rel="noopener noreferrer"
