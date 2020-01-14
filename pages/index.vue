@@ -21,7 +21,7 @@
     <br />
     <footer>
       Powered by
-      <i class="fab fa-vuejs"></i>. ©️ 2019 Abhinav Jonnada
+      <i class="fab fa-vuejs"></i>. ©️ 2020 Abhinav Jonnada
     </footer>
   </section>
 </template>
